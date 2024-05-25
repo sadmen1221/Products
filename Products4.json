@@ -1,0 +1,196 @@
+
+[
+    {
+        "category": "Gamer",
+        "products": [
+            {
+                "name": "Corsair VENGEANCE LPX DDR4 RAM 32GB (2x16GB) 3200MHz CL16 Intel XMP 2.0 Computer Memory - Black (CMK32GX4M2E3200C16)",
+                "price": "$64.99",
+                "imageUrl": "https://m.media-amazon.com/images/I/518T3hrUY4L._AC_UY218_.jpg",
+                "store": "Amazon"
+            },
+            {
+                "name": "Corsair VENGEANCE RGB PRO SL DDR4 32GB (2x16GB) 3600MHz CL18 Intel XMP 2.0 AMD Ryzen iCUE Compatible Computer Memory - White (CMH32GX4M2D3600C18W)",
+                "price": "$79.99",
+                "imageUrl": "https://m.media-amazon.com/images/I/61ks5I-TN1L._AC_UY218_.jpg",
+                "store": "Amazon"
+            },
+            {
+                "name": "CORSAIR VENGEANCE RGB DDR5 RAM 32GB (2x16GB) 6000MHz CL36 Intel XMP iCUE Compatible Computer Memory - Black (CMH32GX5M2D6000C36)",
+                "price": "$99.99",
+                "imageUrl": "https://m.media-amazon.com/images/I/61L8HPVBoUL._AC_UY218_.jpg",
+                "store": "Amazon"
+            },
+            {
+                "name": "Corsair VENGEANCE RGB PRO DDR4 32GB (2x16GB) 3200MHz CL16 Intel XMP 2.0 iCUE Compatible Computer Memory - Black (CMW32GX4M2E3200C16)",
+                "price": "$77.84",
+                "imageUrl": "https://m.media-amazon.com/images/I/71e6YWJio-L._AC_UY218_.jpg",
+                "store": "Amazon"
+            },
+            {
+                "name": "Corsair VENGEANCE LPX DDR4 16GB (2x8GB) 3200MHz CL16 Intel XMP 2.0 Computer Memory - Black (CMK16GX4M2E3200C16)",
+                "price": "$38.99",
+                "imageUrl": "https://m.media-amazon.com/images/I/51gLnYN1W7L._AC_UY218_.jpg",
+                "store": "Amazon"
+            },
+            {
+                "name": "Corsair VENGEANCE RGB PRO DDR4 16GB (2x8GB) 3200MHz CL16 Intel XMP 2.0 iCUE Compatible Computer Memory - Black (CMW16GX4M2C3200C16)",
+                "price": "$53.99",
+                "imageUrl": "https://m.media-amazon.com/images/I/71e6YWJio-L._AC_UY218_.jpg",
+                "store": "Amazon"
+            },
+            {
+                "name": "Crucial RAM 32GB Kit (2x16GB) DDR4 3200MHz CL22 (or 2933MHz or 2666MHz) Laptop Memory CT2K16G4SFRA32A",
+                "price": "$56.99",
+                "imageUrl": "https://m.media-amazon.com/images/I/61nEkihMy4L._AC_UY218_.jpg",
+                "store": "Amazon"
+            },
+            {
+                "name": "Crucial Pro RAM 32GB Kit (2x16GB) DDR4 3200MT/s (or 3000MT/s or 2666MT/s) Desktop Memory CP2K16G4DFRA32A",
+                "price": "$61.99",
+                "imageUrl": "https://m.media-amazon.com/images/I/51u-WtxXTaL._AC_UY218_.jpg",
+                "store": "Amazon"
+            },
+            {
+                "name": "CORSAIR VENGEANCE DDR5 RAM 64GB (2x32GB) 5200MHz CL40 Intel XMP iCUE Compatible Computer Memory - Black (CMK64GX5M2B5200C40)",
+                "price": "$159.99",
+                "imageUrl": "https://m.media-amazon.com/images/I/61T907b5OaL._AC_UY218_.jpg",
+                "store": "Amazon"
+            },
+            {
+                "name": "CORSAIR VENGEANCE DDR5 RAM 32GB (2x16GB) 6000MHz CL36 Intel XMP iCUE Compatible Computer Memory - Black (CMK32GX5M2D6000C36)",
+                "price": "$94.99",
+                "imageUrl": "https://m.media-amazon.com/images/I/71AV5PQu1yL._AC_UY218_.jpg",
+                "store": "Amazon"
+            },
+            {
+                "name": "CORSAIR VENGEANCE DDR5 RAM 32GB (2x16GB) 5600MHz CL36 Intel XMP iCUE Compatible Computer Memory - Black (CMK32GX5M2B5600C36)",
+                "price": "$94.99",
+                "imageUrl": "https://m.media-amazon.com/images/I/71W0l9URZOL._AC_UY218_.jpg",
+                "store": "Amazon"
+            },
+            {
+                "name": "Crucial Pro RAM 32GB Kit (2x16GB) DDR5 5600MT/s (or 5200MT/s or 4800MT/s) Desktop Memory CP2K16G56C46U5",
+                "price": "$89.99",
+                "imageUrl": "https://m.media-amazon.com/images/I/41Un7nOsFyL._AC_UY218_.jpg",
+                "store": "Amazon"
+            },
+            {
+                "name": "CORSAIR VENGEANCE RGB DDR5 RAM 32GB (2x16GB) 6400MHz CL36 Intel XMP iCUE Compatible Computer Memory - Black (CMH32GX5M2B6400C36)",
+                "price": "$99.99",
+                "imageUrl": "https://m.media-amazon.com/images/I/61D2DDpDITL._AC_UY218_.jpg",
+                "store": "Amazon"
+            },
+            {
+                "name": "Crucial RAM 32GB Kit (2x16GB) DDR5 5600MHz (or 5200MHz or 4800MHz) Laptop Memory CT2K16G56C46S5, Black",
+                "price": "$82.99",
+                "imageUrl": "https://m.media-amazon.com/images/I/71k-boqf32L._AC_UY218_.jpg",
+                "store": "Amazon"
+            },
+            {
+                "name": "CORSAIR VENGEANCE RGB DDR5 RAM 32GB (2x16GB) 6000MHz CL40 Intel XMP iCUE Compatible Computer Memory - Black (CMH32GX5M2B6000C40)",
+                "price": "$102.99",
+                "imageUrl": "https://m.media-amazon.com/images/I/61EVf-QxpvL._AC_UY218_.jpg",
+                "store": "Amazon"
+            },
+            {
+                "name": "CORSAIR VENGEANCE RGB DDR5 RAM 32GB (2x16GB) 6000MHz CL30 AMD EXPO iCUE Compatible Computer Memory - Gray (CMH32GX5M2B6000Z30K)",
+                "price": "$119.99",
+                "imageUrl": "https://m.media-amazon.com/images/I/61EVf-QxpvL._AC_UY218_.jpg",
+                "store": "Amazon"
+            }
+        ],
+        "hasPrevious": false,
+        "hasNext": true,
+        "size": 16,
+        "pageNumber": "1"
+    },
+    {
+        "category": "Tecnología",
+        "products": [
+          {
+            "name": "Smartphone Samsung Galaxy A53 5G",
+            "price": "S/. 1,799",
+            "imageUrl": "[Image of Smartphone Samsung Galaxy A53 5G]",
+            "store": "Tienda Online https://simple.ripley.com.pe/"
+          },
+          {
+            "name": "Laptop Lenovo IdeaPad Slim 3i",
+            "price": "S/. 2,499",
+            "imageUrl": "[Image of Laptop Lenovo IdeaPad Slim 3i]",
+            "store": "Tienda Online https://www.falabella.com.pe/"
+          },
+          {
+            "name": "Smartwatch Xiaomi Mi Watch Lite",
+            "price": "S/. 299",
+            "imageUrl": "[Image of Smartwatch Xiaomi Mi Watch Lite]",
+            "store": "Tienda Online https://www.paris.cl/pe/smartwatch-xiaomi-mi-watch-lite-negro-1258955.html"
+          },
+          {
+            "name": "Audífonos inalámbricos Sony WF-XB700",
+            "price": "S/. 499",
+            "imageUrl": "[Image of Audífonos inalámbricos Sony WF-XB700]",
+            "store": "Tienda Online https://www.hiperbodega.com.pe/"
+          },
+          {
+            "name": "Tablet Samsung Galaxy Tab A7 Lite",
+            "price": "S/. 699",
+            "imageUrl": "[Image of Tablet Samsung Galaxy Tab A7 Lite]",
+            "store": "Tienda Online https://www.coppel.com/pe/"
+          },
+          {
+            "name": "Televisor Smart LED LG 32LQ6300",
+            "price": "S/. 1,299",
+            "imageUrl": "[Image of Televisor Smart LED LG 32LQ6300]",
+            "store": "Tienda Online https://www.fravega.pe/"
+          },
+          {
+            "name": "Refrigerador LG Frost Free",
+            "price": "S/. 1,999",
+            "imageUrl": "[Image of Refrigerador LG Frost Free]",
+            "store": "Tienda Online https://www.plazavea.com.pe/"
+          }
+        ]
+    },
+    {
+        "category": "Electrodomésticos",
+        "products": [
+          {
+            "name": "Lavadora Samsung WD10T5360AW",
+            "price": "S/. 1,499",
+            "imageUrl": "",
+            "store": "Tienda Online https://www.ripley.com.pe/"
+          },
+          {
+            "name": "Cocina a gas Whirlpool WCG606PE",
+            "price": "S/. 899",
+            "imageUrl": "",
+            "store": "Tienda Online https://www.falabella.com.pe/"
+          },
+          {
+            "name": "Licuadora Oster BLSTGM5000",
+            "price": "S/. 199",
+            "imageUrl": "",
+            "store": "Tienda Online https://www.paris.cl/pe/licuadora-oster-blstgm5000-negra-1258956.html"
+          },
+          {
+            "name": "Cafetera Oster EXP169M",
+            "price": "S/. 149",
+            "imageUrl": "",
+            "store": "Tienda Online https://www.hiperbodega.com.pe/"
+          },
+          {
+            "name": "Plancha de ropa Philips GC1730",
+            "price": "S/. 99",
+            "imageUrl": "[Image of Plancha de ropa Philips GC1730]",
+            "store": "Tienda Online https://www.coppel.com/pe/"
+          },
+          {
+            "name": "Aspiradora Electrolux E10S",
+            "price": "S/. 299",
+            "imageUrl": "",
+            "store": "Tienda Online https://www.tiendasaga.com.pe/"
+          }
+        ]
+    }
+]
