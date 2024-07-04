@@ -1,0 +1,20 @@
+{
+    "publicidades": [
+      {
+        "nombre": "publicidadUno",
+        "linkFoto": "https://penji.co/wp-content/uploads/2019/03/Mcdonalds-Food-Ad-Designs.jpg"
+      },
+      {
+        "nombre": "publicidadDos",
+        "linkFoto": "https://i.pinimg.com/736x/36/c7/61/36c761bf39589a17e34cc0bc890f9dca.jpg"
+      },
+      {
+        "nombre": "publicidadTres",
+        "linkFoto": "https://www.dongee.com/tutoriales/content/images/2024/04/image-14.png"
+      },
+      {
+        "nombre": "publicidadCuatro",
+        "linkFoto": "https://www.totalmedios.com/img/noticias/2017/02/58aa893a1fd27__838x390.jpg"
+      }
+    ]
+  }
