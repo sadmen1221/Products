@@ -1,0 +1,19 @@
+[
+    {
+        "category": "tiendaA",
+        "anuncios": [
+            {
+                "name": "agosto",
+                "imageUrl": "https://www.shutterstock.com/image-vector/grocery-store-supermarket-template-groceries-600nw-2450552217.jpg"
+            },
+            {
+                "name": "julio",
+                "imageUrl": "https://static.vecteezy.com/system/resources/previews/001/254/657/non_2x/grocery-store-online-banner-template-with-phone-groceries-and-foliage-elements-vector.jpg"
+            },
+            {
+                "name": "septiembre",
+                "imageUrl": "https://media.istockphoto.com/id/1289226223/es/vector/dise%C3%B1o-de-banners-web-de-compras-de-comestibles-org%C3%A1nicos-para-tienda-mercado-en-l%C3%ADnea.jpg?s=612x612&w=0&k=20&c=Buh1bvuaTnEX5vCSjcyAR-DD4E7cJX_jhGXcLdNL7xI="
+            }
+        ]
+    }
+]
